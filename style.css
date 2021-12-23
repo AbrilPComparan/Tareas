@@ -1,0 +1,28 @@
+body {
+    background-image: url("/assets/gif1.gif");
+}
+#demotext {
+    font-size:600%;
+    text-align: center;
+    color: #a40ceb;
+    text-shadow: 10px 3px 0px #7A7A7A;
+    color: #ffffff;
+    
+    }
+#text1 {
+
+        font-size: 300%;
+        color: rgba(27, 162, 235, 0.3);
+        text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5);
+        }
+p {
+    font-size: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+}
+blockquote{
+    font-size: 130%;
+}
+
+    
